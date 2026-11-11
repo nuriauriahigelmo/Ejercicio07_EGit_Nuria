@@ -1,0 +1,11 @@
+
+# Archivos compilados de Java
+/bin/
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Metadatos del workspace
+.metadata/
